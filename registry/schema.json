@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome DSH Registry Entry",
+  "type": "object",
+  "required": [
+    "name",
+    "repository",
+    "type",
+    "categories",
+    "runtime",
+    "status"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "repository": {
+      "type": "string",
+      "format": "uri"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "description": {
+      "type": "string"
+    },
+    "type": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "plugin",
+          "agent",
+          "skill",
+          "tool",
+          "sdk",
+          "library",
+          "integration",
+          "template"
+        ]
+      }
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "capabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "runtime": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "dsh"
+        ]
+      }
+    },
+    "language": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "license": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "stable",
+        "beta",
+        "experimental",
+        "deprecated"
+      ]
+    },
+    "official": {
+      "type": "boolean"
+    },
+    "maintained": {
+      "type": "boolean"
+    },
+    "version": {
+      "type": "string"
+    },
+    "install": {
+      "type": "object",
+      "properties": {
+        "method": {
+          "type": "string"
+        },
+        "command": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}

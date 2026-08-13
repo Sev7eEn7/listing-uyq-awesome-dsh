@@ -1,0 +1,10 @@
+{
+  "name": "awesome-dsh",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Community ecosystem registry for DeepSeek Harness",
+  "scripts": {
+    "validate": "node scripts/validate-registry.mjs",
+    "generate": "node scripts/generate-index.mjs"
+  }
+}

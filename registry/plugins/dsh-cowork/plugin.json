@@ -1,0 +1,33 @@
+{
+  "name": "dsh-cowork",
+  "repository": "https://github.com/Jesse-njx/dsh-cowork",
+  "description": "Bounded, cell-addressed `doc_read`/`doc_write` for xlsx / pdf / docx / pptx / ipynb, plus an MCP server and CLI.",
+  "source_category": "Tools & Capabilities",
+  "category": "data",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "data",
+    "documents",
+    "office",
+    "mcp"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "data",
+    "documents",
+    "mcp",
+    "office"
+  ]
+}

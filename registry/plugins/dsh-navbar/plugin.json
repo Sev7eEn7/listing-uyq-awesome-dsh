@@ -1,0 +1,27 @@
+{
+  "name": "dsh-navbar",
+  "repository": "https://github.com/vlln/dsh-navbar",
+  "description": "Conversation node navigation bar for quick jumps between user messages.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "ui"
+  ]
+}

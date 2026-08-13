@@ -1,0 +1,34 @@
+{
+  "name": "dsh-side-panel",
+  "repository": "https://github.com/ccq1/dsh-side-panel",
+  "description": "Side panel with file browser, terminal, and Git review for quick file previews.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "files",
+    "terminal",
+    "git"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "files",
+    "git",
+    "terminal",
+    "ui"
+  ]
+}

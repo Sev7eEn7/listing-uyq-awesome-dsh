@@ -1,0 +1,27 @@
+{
+  "name": "dsh-open-in-vscode",
+  "repository": "https://github.com/omdsh-dev/dsh-open-in-vscode",
+  "description": "Open DSH workspace directories in VS Code directly from the web GUI.",
+  "source_category": "Notifications & Integrations",
+  "category": "integrations",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "integrations"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "integrations"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "dsh-stock-market",
+  "repository": "https://github.com/AnacondaKC/dsh-stock-market",
+  "description": "Fixes the bug where your account can't lose money while you code.",
+  "source_category": "Just for Fun",
+  "category": "fun",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "fun"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "fun"
+  ]
+}

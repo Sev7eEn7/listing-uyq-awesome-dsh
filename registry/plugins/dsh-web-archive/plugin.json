@@ -1,0 +1,27 @@
+{
+  "name": "dsh-web-archive",
+  "repository": "https://github.com/renat3u/dsh-web-archive",
+  "description": "Collapse noisy messages (Think, Bash, etc.) in conversations.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "ui"
+  ]
+}

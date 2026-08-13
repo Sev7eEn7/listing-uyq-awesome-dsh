@@ -1,0 +1,27 @@
+{
+  "name": "dsh-toolkit",
+  "repository": "https://github.com/omdsh-dev/dsh-toolkit",
+  "description": "Zero-dependency toolkit: time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema — ten deterministic tools in one install.",
+  "source_category": "Tools & Capabilities",
+  "category": "tools",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "tools"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "tools"
+  ]
+}

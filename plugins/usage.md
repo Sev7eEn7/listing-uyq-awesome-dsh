@@ -1,7 +1,7 @@
-# Usage
+# Usage & Cost
 
-> Usage, token, quota, and cost tracking.
+> 1 projects.
 
-<!-- Add registry-backed projects here. -->
-
-_No projects listed yet._
+| Project | Description |
+|---|---|
+| [dsh-agent-budget](https://github.com/vibeinging/dsh-agent-budget) | Agent-tree token budget management. |

@@ -1,0 +1,30 @@
+{
+  "name": "dsh-at-file",
+  "repository": "https://github.com/omdsh-dev/dsh-at-file",
+  "description": "Codex-style `@file` mentions: search workspace files in the composer and attach their contents to prompts.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "files",
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "files",
+    "ui"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "sandbox-micro",
+  "repository": "https://github.com/omdsh-dev/sandbox-micro",
+  "description": "Support for the microsandbox backend.",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "runtime"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "runtime"
+  ]
+}

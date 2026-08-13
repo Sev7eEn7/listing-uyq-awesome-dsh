@@ -1,0 +1,30 @@
+{
+  "name": "dsh-drag-and-drop",
+  "repository": "https://github.com/bill9109/dsh-drag-and-drop",
+  "description": "Cross-platform file drag-and-drop with raw path insertion, no file copying.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "files"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "files",
+    "ui"
+  ]
+}

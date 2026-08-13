@@ -1,0 +1,33 @@
+{
+  "name": "dsh-kb-sieve",
+  "repository": "https://github.com/omdsh-dev/dsh-kb-sieve",
+  "description": "Build auditable KB packs (SQLite FTS5) from md/txt/docx/pdf with deterministic retrieval and original-text reading.",
+  "source_category": "Tools & Capabilities",
+  "category": "data",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "data",
+    "knowledge",
+    "documents",
+    "search"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "data",
+    "documents",
+    "knowledge",
+    "search"
+  ]
+}

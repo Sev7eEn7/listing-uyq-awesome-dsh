@@ -1,0 +1,27 @@
+{
+  "name": "plugin-template",
+  "repository": "https://github.com/omdsh-dev/plugin-template",
+  "description": "Plugin template repo (based on the official turtle-ui repo).",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "template"
+  ],
+  "categories": [
+    "runtime"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "runtime"
+  ]
+}

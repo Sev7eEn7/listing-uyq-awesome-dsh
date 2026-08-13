@@ -1,0 +1,27 @@
+{
+  "name": "dsh-prompt-studio",
+  "repository": "https://github.com/Moeblack/dsh-prompt-studio",
+  "description": "Edit user and built-in system-prompt sections with live preview.",
+  "source_category": "Sessions & Messages",
+  "category": "sessions",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "sessions"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "sessions"
+  ]
+}

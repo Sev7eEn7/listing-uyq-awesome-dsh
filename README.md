@@ -26,6 +26,11 @@
 
 ## Plugin Directory
 
+**97 community plugins** have been listed.
+
+- **[Full alphabetical plugin index](plugins/INDEX.md)**
+- **[Machine-readable registry](registry/INDEX.md)**
+
 Browse plugins by capability:
 
 - [Memory](plugins/memory.md)

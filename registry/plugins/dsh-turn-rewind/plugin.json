@@ -1,0 +1,27 @@
+{
+  "name": "dsh-turn-rewind",
+  "repository": "https://github.com/Anionex/dsh-turn-rewind",
+  "description": "Rewind conversation and workspace state, powered by a persistent Change Ledger.",
+  "source_category": "Sessions & Messages",
+  "category": "sessions",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "sessions"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "sessions"
+  ]
+}

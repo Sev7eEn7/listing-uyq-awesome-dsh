@@ -1,0 +1,30 @@
+{
+  "name": "dsh-task-status",
+  "repository": "https://github.com/vlln/dsh-task-status",
+  "description": "Background task status bar: progress plus live output tail on the chat page.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "observability"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "observability",
+    "ui"
+  ]
+}

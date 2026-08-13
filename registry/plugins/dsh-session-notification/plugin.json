@@ -1,0 +1,27 @@
+{
+  "name": "dsh-session-notification",
+  "repository": "https://github.com/dingyi222666/dsh-session-notification",
+  "description": "Notifications for four session states, with browser alerts and prompts.",
+  "source_category": "Notifications & Integrations",
+  "category": "notifications",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "notifications"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "notifications"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "dsh-agent-teams",
+  "repository": "https://github.com/NanmiCoder/dsh-agent-teams",
+  "description": "AgentTeams multi-agent teams.",
+  "source_category": "Workflow & Automation",
+  "category": "workflow",
+  "type": [
+    "plugin",
+    "agent"
+  ],
+  "categories": [
+    "workflow",
+    "multi-agent"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "multi-agent",
+    "workflow"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "dsh-diff-viewer",
+  "repository": "https://github.com/lehhair/dsh-diff-viewer",
+  "description": "PiUI-style diff viewer replacing the stock DiffBlock for write/edit tool calls.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "coding"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "coding",
+    "ui"
+  ]
+}

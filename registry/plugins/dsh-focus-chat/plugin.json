@@ -1,0 +1,27 @@
+{
+  "name": "dsh-focus-chat",
+  "repository": "https://github.com/dingyi222666/dsh-focus-chat",
+  "description": "A \"focus chat\" minimal view that shows only final outputs.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "ui"
+  ]
+}

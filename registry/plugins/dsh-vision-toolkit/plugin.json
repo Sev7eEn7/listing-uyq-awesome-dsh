@@ -1,0 +1,34 @@
+{
+  "name": "dsh-vision-toolkit",
+  "repository": "https://github.com/Anionex/dsh-vision-toolkit",
+  "description": "Vision tasks for text-only models: intent-aware image Q&A, long-screenshot OCR, UI reproduction, grounding, and pixel diff.",
+  "source_category": "Tools & Capabilities",
+  "category": "vision",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "vision",
+    "vision",
+    "ocr",
+    "ui",
+    "image"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "image",
+    "ocr",
+    "ui",
+    "vision"
+  ]
+}

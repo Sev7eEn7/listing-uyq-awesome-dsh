@@ -1,0 +1,27 @@
+{
+  "name": "dsh-session-health",
+  "repository": "https://github.com/omdsh-dev/dsh-session-health",
+  "description": "Frame-level scan diagnostics for session files (torn/corrupt/empty detection).",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "runtime"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "runtime"
+  ]
+}

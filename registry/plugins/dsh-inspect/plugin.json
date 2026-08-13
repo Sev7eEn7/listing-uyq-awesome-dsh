@@ -1,0 +1,27 @@
+{
+  "name": "dsh-inspect",
+  "repository": "https://github.com/omdsh-dev/dsh-inspect",
+  "description": "Adversarial checkup → fix → review loop toolset.",
+  "source_category": "Workflow & Automation",
+  "category": "workflow",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "workflow"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "workflow"
+  ]
+}

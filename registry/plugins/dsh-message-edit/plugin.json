@@ -1,0 +1,27 @@
+{
+  "name": "dsh-message-edit",
+  "repository": "https://github.com/Moeblack/dsh-message-edit",
+  "description": "Branch-based message editing, reroll, retry, and a version timeline.",
+  "source_category": "Sessions & Messages",
+  "category": "sessions",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "sessions"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "sessions"
+  ]
+}

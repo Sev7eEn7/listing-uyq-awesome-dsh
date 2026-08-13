@@ -1,0 +1,30 @@
+{
+  "name": "dsh-agent-budget",
+  "repository": "https://github.com/vibeinging/dsh-agent-budget",
+  "description": "Agent-tree token budget management.",
+  "source_category": "Development & Runtime",
+  "category": "usage",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "usage",
+    "usage",
+    "cost"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "cost",
+    "usage"
+  ]
+}

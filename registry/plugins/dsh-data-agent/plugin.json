@@ -1,0 +1,31 @@
+{
+  "name": "dsh-data-agent",
+  "repository": "https://github.com/omdsh-dev/dsh-data-agent",
+  "description": "Let the AI connect to databases and write SQL for you.",
+  "source_category": "Tools & Capabilities",
+  "category": "data",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "data",
+    "database",
+    "coding"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "coding",
+    "data",
+    "database"
+  ]
+}

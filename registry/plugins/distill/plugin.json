@@ -1,0 +1,30 @@
+{
+  "name": "distill",
+  "repository": "https://github.com/LoserFox/distill",
+  "description": "Automatic conversation distillation: background subagent reflection + skill create/update.",
+  "source_category": "Sessions & Messages",
+  "category": "memory",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "memory",
+    "memory",
+    "skills"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "memory",
+    "skills"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "dsh-sentinel",
+  "repository": "https://github.com/fuhefei/dsh-sentinel",
+  "description": "Condition-driven wakeup: durable file/command/http/process/webhook watches that wake the agent.",
+  "source_category": "Workflow & Automation",
+  "category": "workflow",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "workflow"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "workflow"
+  ]
+}

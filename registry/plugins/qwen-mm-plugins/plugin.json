@@ -1,0 +1,27 @@
+{
+  "name": "Qwen-MM-Plugins",
+  "repository": "https://github.com/omdsh-dev/Qwen-MM-Plugins",
+  "description": "Qwen multi-modal plugin support.",
+  "source_category": "Development & Runtime",
+  "category": "vision",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "vision"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "vision"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "dsh-tool-search",
+  "repository": "https://github.com/vibeinging/dsh-tool-search",
+  "description": "Per-agent on-demand tool discovery and progressive schema disclosure.",
+  "source_category": "Tools & Capabilities",
+  "category": "tools",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "tools",
+    "tools",
+    "discovery"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "discovery",
+    "tools"
+  ]
+}

@@ -1,32 +1,41 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://awesome-dsh.org/schema/plugin.json",
   "title": "Awesome DSH Registry Entry",
   "type": "object",
   "required": [
     "name",
     "repository",
+    "description",
     "type",
     "categories",
     "runtime",
-    "status"
+    "official",
+    "status",
+    "source",
+    "verification"
   ],
   "properties": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "minLength": 1
     },
     "repository": {
       "type": "string",
-      "format": "uri"
+      "format": "uri",
+      "pattern": "^https://github\\.com/"
     },
     "website": {
       "type": "string",
       "format": "uri"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "minLength": 1
     },
     "type": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "enum": [
           "plugin",
@@ -42,6 +51,7 @@
     },
     "categories": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "type": "string"
       }
@@ -54,6 +64,7 @@
     },
     "runtime": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "enum": [
           "dsh"
@@ -74,7 +85,9 @@
         "stable",
         "beta",
         "experimental",
-        "deprecated"
+        "community",
+        "deprecated",
+        "unknown"
       ]
     },
     "official": {
@@ -103,6 +116,33 @@
       "items": {
         "type": "string"
       }
+    },
+    "source": {
+      "type": "string"
+    },
+    "source_repository": {
+      "type": "string",
+      "format": "uri"
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "listed_by_source",
+        "repository_url_checked"
+      ],
+      "properties": {
+        "listed_by_source": {
+          "type": "boolean"
+        },
+        "repository_url_checked": {
+          "type": "boolean"
+        },
+        "last_checked": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

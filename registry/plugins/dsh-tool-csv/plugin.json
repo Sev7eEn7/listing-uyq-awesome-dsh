@@ -1,0 +1,27 @@
+{
+  "name": "dsh-tool-csv",
+  "repository": "https://github.com/omdsh-dev/dsh-tool-csv",
+  "description": "Parse/query/aggregate/convert CSV (RFC 4180) with a zero-dependency state-machine parser.",
+  "source_category": "Tools & Capabilities",
+  "category": "data",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "data"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "data"
+  ]
+}

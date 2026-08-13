@@ -1,0 +1,32 @@
+{
+  "name": "dsh-computer-use",
+  "repository": "https://github.com/Anionex/dsh-computer-use",
+  "description": "Accessibility-first macOS computer use: fresh observations, stale-state rejection, scoped permissions, and safe input.",
+  "source_category": "Tools & Capabilities",
+  "category": "vision",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "vision",
+    "computer-use",
+    "vision",
+    "security"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "computer-use",
+    "security",
+    "vision"
+  ]
+}

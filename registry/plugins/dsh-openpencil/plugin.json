@@ -1,0 +1,30 @@
+{
+  "name": "dsh-openpencil",
+  "repository": "https://github.com/ZSeven-W/dsh-openpencil",
+  "description": "OpenPencil design preview and editing plugin.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "design"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "design",
+    "ui"
+  ]
+}

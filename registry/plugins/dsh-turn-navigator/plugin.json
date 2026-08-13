@@ -1,0 +1,27 @@
+{
+  "name": "dsh-turn-navigator",
+  "repository": "https://github.com/vibeinging/dsh-turn-navigator",
+  "description": "Turn navigation for the DSH Web UI.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "ui"
+  ]
+}

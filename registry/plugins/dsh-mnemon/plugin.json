@@ -1,0 +1,30 @@
+{
+  "name": "dsh-mnemon",
+  "repository": "https://github.com/omdsh-dev/dsh-mnemon",
+  "description": "Deep Mnemon integration: local three-tier memory (Runtime Memory, retrievable Documents, supervised Memory Spaces).",
+  "source_category": "Sessions & Messages",
+  "category": "memory",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "memory",
+    "memory",
+    "knowledge"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "knowledge",
+    "memory"
+  ]
+}

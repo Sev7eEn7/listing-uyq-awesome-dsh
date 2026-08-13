@@ -1,0 +1,27 @@
+{
+  "name": "dsh-ads",
+  "repository": "https://github.com/Nagi-ovo/dsh-ads",
+  "description": "Parody ads in 2005-Chinese-web style: sidebar banners, in-chat feeds, corner popups, and a close button whose hit area is smaller than it looks. All fictional.",
+  "source_category": "Just for Fun",
+  "category": "fun",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "fun"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "fun"
+  ]
+}

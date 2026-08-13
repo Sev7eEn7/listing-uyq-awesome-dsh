@@ -1,0 +1,30 @@
+{
+  "name": "dsh-tps",
+  "repository": "https://github.com/Small-tailqwq/dsh-tps",
+  "description": "A TPS metrics plugin.",
+  "source_category": "Development & Runtime",
+  "category": "observability",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "observability",
+    "observability",
+    "usage"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "observability",
+    "usage"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "dsh-plugin-mineru",
+  "repository": "https://github.com/HuanLinOTO/dsh-plugin-mineru",
+  "description": "Expose MineRU document parsing tools to the model.",
+  "source_category": "Tools & Capabilities",
+  "category": "data",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "data"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "data"
+  ]
+}

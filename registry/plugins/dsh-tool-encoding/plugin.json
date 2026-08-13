@@ -1,0 +1,27 @@
+{
+  "name": "dsh-tool-encoding",
+  "repository": "https://github.com/omdsh-dev/dsh-tool-encoding",
+  "description": "base64/url/hex encoding, common hashes, and UUID generation.",
+  "source_category": "Tools & Capabilities",
+  "category": "tools",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "tools"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "tools"
+  ]
+}

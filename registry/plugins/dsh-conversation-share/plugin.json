@@ -1,0 +1,27 @@
+{
+  "name": "dsh-conversation-share",
+  "repository": "https://github.com/bill9109/dsh-conversation-share",
+  "description": "Share any excerpt of a conversation.",
+  "source_category": "Sessions & Messages",
+  "category": "sessions",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "sessions"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "sessions"
+  ]
+}

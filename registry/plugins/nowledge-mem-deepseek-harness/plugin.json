@@ -1,0 +1,30 @@
+{
+  "name": "nowledge-mem-deepseek-harness",
+  "repository": "https://github.com/nowledge-co/nowledge-mem-deepseek-harness",
+  "description": "One memory layer for every AI tool and agent: Context Bundle injection, prompt-time recall, MCP tools, and turn-end DSH thread capture.",
+  "source_category": "Sessions & Messages",
+  "category": "memory",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "memory",
+    "memory",
+    "mcp"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "mcp",
+    "memory"
+  ]
+}

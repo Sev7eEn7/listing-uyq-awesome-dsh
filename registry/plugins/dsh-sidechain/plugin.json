@@ -1,0 +1,30 @@
+{
+  "name": "dsh-sidechain",
+  "repository": "https://github.com/Buyi-wsgzg/dsh-sidechain",
+  "description": "`/side` persistent side sessions and `/btw` one-shot side questions, run in a temporary fork without touching main history.",
+  "source_category": "Sessions & Messages",
+  "category": "sessions",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "sessions",
+    "sessions",
+    "multi-agent"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "multi-agent",
+    "sessions"
+  ]
+}

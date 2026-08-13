@@ -1,0 +1,31 @@
+{
+  "name": "dsh-llm-fallbacks",
+  "repository": "https://github.com/btspoony/dsh-llm-fallbacks",
+  "description": "Role-based LLM retry & fallback strategies.",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "runtime",
+    "reliability",
+    "models"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "models",
+    "reliability",
+    "runtime"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "dsh-annotation",
+  "repository": "https://github.com/omdsh-dev/dsh-annotation",
+  "description": "Select text → annotate → send with your message; replies map back to each annotation.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "sessions"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "sessions",
+    "ui"
+  ]
+}

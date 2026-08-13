@@ -1,0 +1,27 @@
+{
+  "name": "dsh-git-identity",
+  "repository": "https://github.com/LoserFox/dsh-git-identity",
+  "description": "Pin Git commits to the environment's own author identity; env-var injection overrides all git config.",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "runtime"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "runtime"
+  ]
+}

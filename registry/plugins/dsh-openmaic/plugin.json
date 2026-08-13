@@ -1,0 +1,31 @@
+{
+  "name": "dsh-openmaic",
+  "repository": "https://github.com/THU-MAIC/dsh-openmaic",
+  "description": "OpenMAIC: classrooms, slides, interactive widgets, and Socratic teaching.",
+  "source_category": "Tools & Capabilities",
+  "category": "tools",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "tools",
+    "education",
+    "ui"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "education",
+    "tools",
+    "ui"
+  ]
+}

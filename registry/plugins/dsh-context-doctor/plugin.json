@@ -1,0 +1,30 @@
+{
+  "name": "dsh-context-doctor",
+  "repository": "https://github.com/Zhenyu98/dsh-context-doctor",
+  "description": "Context injection audit: token costs of instruction chains / skill catalogs / tool schemas, duplicate and conflict detection.",
+  "source_category": "Development & Runtime",
+  "category": "observability",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "observability",
+    "observability",
+    "usage"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "observability",
+    "usage"
+  ]
+}

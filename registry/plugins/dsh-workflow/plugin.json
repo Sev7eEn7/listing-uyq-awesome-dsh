@@ -1,0 +1,31 @@
+{
+  "name": "dsh_workflow",
+  "repository": "https://github.com/icetomoyo/dsh_workflow",
+  "description": "UltraCode-style multi-agent orchestration: a generatable, savable, governable, observable, resumable workflow layer.",
+  "source_category": "Workflow & Automation",
+  "category": "workflow",
+  "type": [
+    "plugin",
+    "agent"
+  ],
+  "categories": [
+    "workflow",
+    "multi-agent",
+    "workflow"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "multi-agent",
+    "workflow"
+  ]
+}

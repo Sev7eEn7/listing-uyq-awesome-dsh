@@ -1,0 +1,27 @@
+{
+  "name": "dsh-stickers",
+  "repository": "https://github.com/william-jin-cmu/dsh-stickers",
+  "description": "Bidirectional sticker reactions between user and agent.",
+  "source_category": "Just for Fun",
+  "category": "fun",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "fun"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "fun"
+  ]
+}

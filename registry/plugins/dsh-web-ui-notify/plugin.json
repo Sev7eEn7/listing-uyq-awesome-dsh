@@ -1,0 +1,27 @@
+{
+  "name": "dsh-web-ui-notify",
+  "repository": "https://github.com/bill9109/dsh-web-ui-notify",
+  "description": "Desktop notification reminders.",
+  "source_category": "Notifications & Integrations",
+  "category": "notifications",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "notifications"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "notifications"
+  ]
+}

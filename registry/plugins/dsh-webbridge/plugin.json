@@ -1,0 +1,31 @@
+{
+  "name": "dsh-webbridge",
+  "repository": "https://github.com/bill9109/dsh-webbridge",
+  "description": "DSH meets Kimi WebBridge.",
+  "source_category": "Notifications & Integrations",
+  "category": "integrations",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "integrations",
+    "integration",
+    "web"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "integration",
+    "integrations",
+    "web"
+  ]
+}

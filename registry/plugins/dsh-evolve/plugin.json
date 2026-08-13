@@ -1,0 +1,27 @@
+{
+  "name": "dsh-evolve",
+  "repository": "https://github.com/william-jin-cmu/dsh-evolve",
+  "description": "Self-evolution: the agent hot-mounts/removes persistent plugins on itself mid-session.",
+  "source_category": "Development & Runtime",
+  "category": "runtime",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "runtime"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "runtime"
+  ]
+}

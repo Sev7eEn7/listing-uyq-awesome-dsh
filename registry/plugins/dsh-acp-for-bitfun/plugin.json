@@ -1,0 +1,31 @@
+{
+  "name": "dsh-acp-for-bitfun",
+  "repository": "https://github.com/bobleer/dsh-acp-for-bitfun",
+  "description": "ACP bridge between BitFun and DSH.",
+  "source_category": "Notifications & Integrations",
+  "category": "integrations",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "integrations",
+    "integration",
+    "acp"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "acp",
+    "integration",
+    "integrations"
+  ]
+}

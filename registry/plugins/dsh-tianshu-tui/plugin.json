@@ -1,0 +1,30 @@
+{
+  "name": "dsh-tianshu-tui",
+  "repository": "https://github.com/huiliyi37/dsh-tianshu-tui",
+  "description": "A terminal UI (TUI) for DeepSeek Harness.",
+  "source_category": "UI Enhancements",
+  "category": "ui",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "ui",
+    "ui",
+    "terminal"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "terminal",
+    "ui"
+  ]
+}

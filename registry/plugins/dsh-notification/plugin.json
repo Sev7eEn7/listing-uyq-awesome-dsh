@@ -1,0 +1,27 @@
+{
+  "name": "dsh-notification",
+  "repository": "https://github.com/omdsh-dev/dsh-notification",
+  "description": "Desktop notifications for turn completions, with per-outcome controls and keyword rules.",
+  "source_category": "Notifications & Integrations",
+  "category": "notifications",
+  "type": [
+    "plugin"
+  ],
+  "categories": [
+    "notifications"
+  ],
+  "runtime": [
+    "dsh"
+  ],
+  "official": false,
+  "source": "awesome-dsh-plugin",
+  "source_repository": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+  "status": "community",
+  "verification": {
+    "listed_by_source": true,
+    "repository_url_checked": true
+  },
+  "tags": [
+    "notifications"
+  ]
+}
